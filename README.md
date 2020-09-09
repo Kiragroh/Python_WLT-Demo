@@ -8,3 +8,5 @@ After starting the application you have to navigate to the folder that has your 
 
 You can find Test-DICOMs from a TrueBeam-machine in the repo. Here is a Screenshot of the resulting report:
 ![Test Image 1](https://github.com/Kiragroh/Python_WLT-Demo/blob/master/Demo-Pic_WLT-Analyse_20200909-114829.png)
+
+Legend: B->D: floor to ceiling direction; T->G: table to gantry direction; A->B: left to right direction looking to the gantry
